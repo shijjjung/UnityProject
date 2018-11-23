@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pikachu", "Pikachu.csproj", "{12AAD7A3-F6F0-F54F-18E7-356D4807C2F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pikachu.Plugins", "Pikachu.Plugins.csproj", "{8F16A084-A720-2BAF-B454-8D2945E12DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pikachu.Editor", "Pikachu.Editor.csproj", "{4D848AF7-E1DE-D865-780A-78EEA08361A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12AAD7A3-F6F0-F54F-18E7-356D4807C2F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12AAD7A3-F6F0-F54F-18E7-356D4807C2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12AAD7A3-F6F0-F54F-18E7-356D4807C2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12AAD7A3-F6F0-F54F-18E7-356D4807C2F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F16A084-A720-2BAF-B454-8D2945E12DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F16A084-A720-2BAF-B454-8D2945E12DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F16A084-A720-2BAF-B454-8D2945E12DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F16A084-A720-2BAF-B454-8D2945E12DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D848AF7-E1DE-D865-780A-78EEA08361A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D848AF7-E1DE-D865-780A-78EEA08361A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D848AF7-E1DE-D865-780A-78EEA08361A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D848AF7-E1DE-D865-780A-78EEA08361A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
